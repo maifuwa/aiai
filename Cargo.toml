@@ -1,0 +1,9 @@
+[package]
+name = "aiai"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "A command-line productivity tool powered by AI large language models like llama3.2"
+repository = "https://github.com/maifuwa/aiai"
+
+[dependencies]
