@@ -25,7 +25,7 @@ Arguments:
 
 Required: 
 
-content: single chat content
+`content`: single chat content
 > Example: `aiai "why is the sky blue?"`
 > 
 > More complex: `aiai "what is my most used command" < ~/.bash_history`
@@ -64,4 +64,4 @@ Optional:
 1. CLI program => clap
 2. Async programming => tokio
 3. Connect to model => reqwest
-4. Markdown view
+4. Markdown view => termimad
